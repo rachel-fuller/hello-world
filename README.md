@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hello, World!
+
+I'm a designer and (aspiring) front-end developer.
